@@ -23,5 +23,7 @@ Therefore, for the classic version of the Sudoku game, the user can choose one o
 <img src="images/PageOne.jpg"  width="450" height="450" >  
 
 ### <b>The interface of the classic game 9X9:</b>
-<img src="images/PageTwo.jpg"  width="450" height="450" >
+<img src="images/PageTwo.jpg"  width="450" height="450">
+
+## The Backtracking Technique in Solving Sudoku Problems
 
