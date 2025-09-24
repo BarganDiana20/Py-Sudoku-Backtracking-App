@@ -28,7 +28,7 @@ Therefore, for the classic version of the Sudoku game, the user can choose one o
 ## The Backtracking Technique in Solving Sudoku Problems
 As mentioned above, the application is based on the backtracking technique, which also highlights the visualization of all possible solutions for a 9 × 9 or 4 × 4 game grid (see the images below).
 
-### <b>All solutions for a variant of the children's game 4x4:</b>
+### <b>All Solutions for a 4×4 Kids’ Sudoku variant:</b>
 <img src="images/kids2.png"  width="450" height="450" >  
 
 
