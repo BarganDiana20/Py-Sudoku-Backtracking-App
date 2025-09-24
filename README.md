@@ -31,4 +31,5 @@ As mentioned above, the application is based on the backtracking technique, whic
 ### <b>All Solutions for a 4×4 Kids’ Sudoku variant:</b>
 <img src="images/kids2.png"  width="450" height="450" >  
 
-
+### <b>All Solutions for a 9×9 Sudoku variant:</b>
+<img src="images/easy4.png"  width="450" height="450" >  
