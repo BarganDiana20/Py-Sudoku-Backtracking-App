@@ -11,3 +11,5 @@ The application also provides a version of **the game for children, with 4 × 4 
 ### <b>Start Page App</b>
 <img src="images/StartPage.jpg"  width="700" height="700" >
 
+### <b>The interface of the children's game 4x4 and the classic game 9X9</b>
+<img src="images/kids.png"  width="450" height="450" >
