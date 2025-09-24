@@ -9,5 +9,5 @@ The player must find the remaining numbers based on the positions of the numbers
 The application also provides a version of the game for children, with 4 × 4 grids divided into 2 × 2 squares. The rules for this variant are the same as for the 9 × 9 grids, except that each cell must contain a number from 1 to 4. The graphical interface of the Sudoku game is built in **Python using the Tkinter library.** The game opens with a main Frame type window containing three buttons: one button provides information about the Sudoku game, while the other two buttons allow the user to select the grid they want to play, namely the **_Play 4×4 Sudoku button_** and the **_Play 9×9 Sudoku button_** (see the image below).  
 
 ### <b>Start Page App</b>
-<img src="images/StartPage.jpg"  width="600" height="600" >
+<img src="images/StartPage.jpg"  width="800" height="800" >
 
