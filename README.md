@@ -12,5 +12,5 @@ The application also provides a version of **the game for children, with 4 × 4 
 <img src="images/StartPage.jpg"  width="700" height="700" >
 
 ### <b>The interface of the children's game 4x4 and the classic game 9X9</b>
-<img src="images/PageOne.jpg"  width="450" height="450" > <img src="images/PageTwo.jpg"  width="450" height="460" >
+<img src="images/PageOne.jpg"  width="450" height="450" > <img src="images/PageTwo.jpg"  width="450" height="470" >
 
